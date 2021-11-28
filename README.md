@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
 -  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
-
+-  [My Languages and Tools](https://github.com/InukaRanmira#languages-and-tools)
 
 
 **** 
