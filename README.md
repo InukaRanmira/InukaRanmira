@@ -27,6 +27,9 @@ You can use the website to generate badges: https://shields.io/
 <br>
 
 - ![Profile views](https://gpvc.arturio.dev/InukaRanmira)
+- [![GitHub followers](https://img.shields.io/github/followers/InukaRanmira.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/InukaRanmira?tab=followers)
+  
+
 
 
 <p align="center"> <a href="https://github.com/InukaRanmira"><img src="https://github-profile-trophy.vercel.app/?username=InukaRanmira&no-bg=true" alt="InukaRanmira" /></a> </p>
