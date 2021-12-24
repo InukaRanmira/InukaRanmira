@@ -19,6 +19,13 @@ You can use the website to generate badges: https://shields.io/
 -  ⚡️ Fun-Fact: I'm Noob;
 -  📫 How to reach me: ranmirainuka@gmail.com;
 
+<b>Contact Me Via Social Platform</b>
+  
+| **Platform** |  **Follow now**   |
+|------------|---------------------|
+|  Telegram    | [![Telegram](https://img.shields.io/badge/InukaRanmira%20-About-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/InukaRanmira)&nbsp;|
+|  Intagram | [![Intagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://www.instagram.com/InukaRanmira/)&nbsp; |
+| Github | [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/InukaRanmira) |
 
 **** 
  <a href="https://github.com/InukaRanmira/handle-path-oz">
@@ -27,7 +34,7 @@ You can use the website to generate badges: https://shields.io/
 
 <br>
 <br>
-
+- [![Intagramfollowers](https://img.shields.io/badge/Instagram%20Followers-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://socialblade.com/instagram/user/InukaRanmira)
 - ![Profile views](https://gpvc.arturio.dev/InukaRanmira)
 - [![GitHub followers](https://img.shields.io/github/followers/InukaRanmira.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/InukaRanmira?tab=followers)
   
