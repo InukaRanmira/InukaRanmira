@@ -34,8 +34,9 @@ You can use the website to generate badges: https://shields.io/
 
 <br>
 <br>
-- [![Intagramfollowers](https://img.shields.io/badge/Instagram%20Followers-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://socialblade.com/instagram/user/InukaRanmira)
+
 - ![Profile views](https://gpvc.arturio.dev/InukaRanmira)
+
 - [![GitHub followers](https://img.shields.io/github/followers/InukaRanmira.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/InukaRanmira?tab=followers)
   
 
