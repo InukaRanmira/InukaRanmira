@@ -73,16 +73,14 @@ You can use the website to generate badges: https://shields.io/
                                                               
 <a href="https://t.me/InukaRanmira" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
-
+ <a href="https://www.instagram.com/InukaRanmira"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a> 
 <br>
-                                                              
+                                                            
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/InukaRanmira)                                                        
-
-#### **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{InukaRanmira}/count.svg)
                                                             
 # Follow me on
 <p align="left">
 <a href="https://t.me/InukaRanmira" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
+<a href="https://www.instagram.com/InukaRanmira"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>
 ---
