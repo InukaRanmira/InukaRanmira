@@ -27,6 +27,10 @@ You can use the website to generate badges: https://shields.io/
 |  Intagram | [![Intagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://www.instagram.com/InukaRanmira/)&nbsp; |
 | Github | [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/InukaRanmira) |
 
+<div align="center">
+<a href="https://github.com/InukaRanmira"><img src="https://metrics.lecoq.io/InukaRanmira?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang" alt="Activities"></a>
+</div>
+
 **** 
  <a href="https://github.com/InukaRanmira/handle-path-oz">
     <img align="center" alt="Inuka Ranmira's github stats" src="https://github-readme-stats.vercel.app/api?username=InukaRanmira&show_icons=true&theme=midnight-purple" />
@@ -83,4 +87,3 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://t.me/InukaRanmira" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 <a href="https://www.instagram.com/InukaRanmira"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>
----
