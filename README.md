@@ -14,10 +14,10 @@ You can use the website to generate badges: https://shields.io/
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
--  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
+-  📫 How to reach me : [![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)](https://t.me/InukaRanmira)
 -  🤔 I’m looking for help with bot developing 😭;
 -  ⚡️ Fun-Fact: I'm Noob;
--  📫 How to reach me: ranmirainuka@gmail.com;
+-  📫 How to reach me: [![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)](https://t.me/InukaRanmira)
 
 <b>Contact Me Via Social Platform</b>
   
