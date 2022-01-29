@@ -39,7 +39,7 @@ You can use the website to generate badges: https://shields.io/
 <br>
 <br>
 
-- ![Profile views](https://gpvc.arturio.dev/InukaRanmira)
+- ![Profile views](https://gpvc.arturio.dev/szsupunma)
 
 - [![GitHub followers](https://img.shields.io/github/followers/InukaRanmira.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/InukaRanmira?tab=followers)
   
